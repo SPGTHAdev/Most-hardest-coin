@@ -1,2 +1,2 @@
 # Most-hardest-coin
-A game :)
+0.1 alpha
